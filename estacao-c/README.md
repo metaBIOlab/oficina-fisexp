@@ -45,5 +45,5 @@ Certifique-se de ter os seguintes programas gratuitos instalados:
 Após instalar o Python, abra o terminal e execute o comando abaixo para instalar as bibliotecas necessárias:
 
 ```bash
-pip install numpy matplotlib scipy 
+pip install numpy matplotlib scipy pandas nibabel trimesh pyvista pymeshlab robust-laplacian
 ```
